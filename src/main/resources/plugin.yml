@@ -1,0 +1,10 @@
+main: us.scoriapvp.floyd.Floyd
+
+name: Floyd
+version: 0.1-SNAPSHOT
+description: "Lobby Plugin made with love by Handsito using the Bukkit/Spigot API."
+
+authors: [Handsito]
+contributors: [WildCarz]
+
+depend: [Nightmare, LuckPerms]

@@ -1,0 +1,13 @@
+mongodb:
+    address: localhost
+    database: floyd
+    authentication:
+        enabled: false
+        user: admin
+        password: ""
+
+redis:
+    address: localhost
+    authentication:
+        enabled: false
+        password: ""
